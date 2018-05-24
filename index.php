@@ -1,4 +1,4 @@
 <?php
-header("Location: http://greatnortherndoor.com//");
+header("Location: http://greatnortherndoor.com/");
 die();
 ?>
