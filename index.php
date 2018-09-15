@@ -1,4 +1,4 @@
 <?php
-header("Location: http://greatnortherndoor.com/");
+header("Location: https://www.planetnatural.com/");
 die();
 ?>
